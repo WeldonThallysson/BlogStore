@@ -1,0 +1,251 @@
+@media screen and (max-width: 240px) {
+    
+    .navbar{
+
+        align-items: center;
+        background-color: #17191f;
+        display: flex;
+        justify-content: space-between;
+        padding: 1rem 1rem;
+        
+    }
+    .navbar h2{
+        font-size: 13px;
+    
+    }
+    .navbar h2:hover{
+        color: #fff;
+    }
+    
+    .home-nav{
+       display: none;
+    }
+    
+    .navbar ul{
+        display: flex;
+        gap: 1rem;
+    }
+    
+    
+    
+    .new-btn{
+        border-radius: 1rem;
+        border: 1px solid #fff;
+        font-weight: bold;
+        font-size: 12px;
+        opacity: 1;
+        padding: 0.2rem 0.7rem;
+       
+       
+    }
+
+
+
+}
+@media screen and (min-width: 720px) {
+    
+    .navbar{
+
+        align-items: center;
+        background-color: #17191f;
+        display: flex;
+        justify-content: space-between;
+        padding: 1.5rem 1.5rem;
+        
+    }
+    .navbar h2{
+        font-size: 19px;
+    
+    }
+  
+    
+    .home-nav{
+        font-size: 16px;
+    }
+    
+  
+    
+    .new-btn{
+        border-radius: 1rem;
+        border: 1px solid #fff;
+        font-weight: bold;
+        font-size: 16px;
+        opacity: 1;
+        padding: 0.2rem 0.9rem;
+       
+       
+    }
+
+
+
+
+
+}
+
+@media screen and (min-width: 1024px) {
+    
+    .navbar{
+
+        align-items: center;
+        background-color: #17191f;
+        display: flex;
+        justify-content: space-between;
+        padding: 1.8rem 1.8rem;
+        
+    }
+    .navbar h2{
+        font-size: 22px;
+    
+    }
+   
+    .home-nav{
+        font-size: 18px;
+    }
+    
+    
+    .new-btn{
+        border-radius: 1rem;
+        border: 1px solid #fff;
+        font-weight: bold;
+        font-size: 18px;
+        opacity: 1;
+        padding: 0.2rem 0.9rem;
+       
+       
+    }
+
+}
+
+@media screen and (min-width: 1200px) {
+    
+    .navbar{
+
+        align-items: center;
+        background-color: #17191f;
+        display: flex;
+        justify-content: space-between;
+        padding: 1.8rem 1.8rem;
+        
+    }
+    .navbar h2{
+        font-size: 23px;
+    
+    }
+   
+    .home-nav{
+        font-size: 19px;
+    }
+    
+    
+    .new-btn{
+        border-radius: 1rem;
+        border: 1px solid #fff;
+        font-weight: bold;
+        font-size: 19px;
+        opacity: 1;
+        padding: 0.2rem 0.9rem;
+       
+       
+    }
+
+}
+
+@media screen and (min-width: 1360px) {
+    
+    .navbar{
+
+        align-items: center;
+        background-color: #1b1d25;
+        display: flex;
+        justify-content: space-between;
+        padding: 1.9 1.9rem;
+        
+    }
+    .navbar h2{
+        font-size: 24px;
+    
+    }
+   
+    .home-nav{
+        font-size: 20px;
+    }
+    
+    
+    .new-btn{
+        border-radius: 1rem;
+        border: 1px solid #fff;
+        font-weight: bold;
+        font-size: 20px;
+        opacity: 1;
+        padding: 0.2rem 0.9rem;
+   
+    }
+
+}
+
+@media screen and (min-width: 1920px) {
+    
+    .navbar{
+
+        align-items: center;
+        background-color: #17191f;
+        display: flex;
+        justify-content: space-between;
+        padding: 2rem 2rem;
+        
+    }
+    .navbar h2{
+        font-size:29px;
+    
+    }
+   
+    .home-nav{
+        font-size: 26px;
+    }
+    
+    
+    .new-btn{
+        border-radius: 1rem;
+        border: 1px solid #fff;
+        font-weight: bold;
+        font-size: 26px;
+        opacity: 1;
+        padding: 0.2rem 0.9rem;
+       
+       
+    }
+
+}
+@media screen and (min-width: 2300px) {
+    
+    .navbar{
+
+        align-items: center;
+        background-color: #17191f;
+        display: flex;
+        justify-content: space-between;
+        padding: 2rem 2rem;
+        
+    }
+    .navbar h2{
+        font-size:30px;
+    
+    }
+   
+    .home-nav{
+        font-size: 30px;
+    }
+    
+    
+    .new-btn{
+        border-radius: 1rem;
+        border: 1px solid #fff;
+        font-weight: bold;
+        font-size: 30px;
+        opacity: 1;
+        padding: 0.2rem 0.9rem;
+       
+       
+    }
+
+}
