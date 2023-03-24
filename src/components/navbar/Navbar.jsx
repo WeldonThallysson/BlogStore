@@ -7,15 +7,13 @@ const Navbar = () => {
     
     <nav className='navbar'>
         <h2>
-           <Link to={`/`}> Blog Store  </Link>
+           <Link to={`/`}>Blog Store</Link>
         </h2>
         <ul>
             <li>
             <Link className="home-nav" to={`/`} > Home </Link>
             </li>
-            <li>
-                <Link className="new-btn" to={`/new`} > Novo Post </Link>
-            </li>
+           
         </ul>
     </nav>
 
