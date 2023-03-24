@@ -1,0 +1,38 @@
+.navbar{
+
+    align-items: center;
+    background-color: #17191f;
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 1rem;
+    
+}
+.navbar h2{
+    font-size: 14px;
+
+}
+.navbar h2:hover{
+    color: #fff;
+}
+
+.home-nav{
+    font-size: 13px;
+}
+
+.navbar ul{
+    display: flex;
+    gap: 1rem;
+}
+
+
+
+.new-btn{
+    border-radius: 1rem;
+    border: 1px solid #fff;
+    font-weight: bold;
+    font-size: 13px;
+    opacity: 1;
+    padding: 0.2rem 0.7rem;
+   
+   
+}
