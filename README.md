@@ -1,7 +1,7 @@
 # BlogStore
 projeto baseado em um blog feito com framework react js, com Axios e requisições http, react-router-dom e mais outras bibliotecas ....
 
-#Instruções do Projeto
+# Instruções do Projeto
 
 Para clonar o projeto siga os passo abaixo
 Execute git clone https://github.com/WeldonThallysson/BlogStore.git
