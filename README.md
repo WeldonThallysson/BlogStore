@@ -16,7 +16,7 @@ Link do Deploy[ https://blogstoreapi.netlify.app/](https://blogstoreapi.netlify.
 
 ----------------------------------------------------
 
-# BlogStore
+
 project based on a blog made with react js framework, with Axios and http requests, react-router-dom and more other libraries ....
 
 # Project Instructions
